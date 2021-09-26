@@ -20,9 +20,9 @@ const Actors = () => {
       setCarts(newCart);
     }
   };
-/* 
-  * Remove Cart Item 
-*/
+  /*
+   * Remove Cart Item
+   */
   const removeActor = (index) => {
     let oldItem = [...carts];
     oldItem.splice(index, 1);
@@ -31,9 +31,9 @@ const Actors = () => {
 
   return (
     <div className="container-fluid">
-      <div className="row mt-4">
+      <div className="row my-4">
         <div className="col-12 col-sm-12 col-md-8 col-lg-8">
-          <div className="row g-3">
+          <div className="row g-4">
             {actors.map((actor) => (
               <Actor key={actor.id} actor={actor} actorHendel={actorHendel} />
             ))}
