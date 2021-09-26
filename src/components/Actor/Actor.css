@@ -1,0 +1,16 @@
+.card{
+    border-radius: 20px;
+}
+.img_area{
+    text-align: center;
+}
+.actor_img{
+    width: 50%;
+    padding-top: 20px;
+    border-radius: 50%;
+}
+
+.actor_btn{
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

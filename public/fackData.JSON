@@ -1,0 +1,192 @@
+[
+    {
+        "id":1,
+        "name": "Shakib Khan",
+        "famous_as": "Actor",
+        "age": 42,
+        "dimant": 120000,
+        "birthplace": "Narayanganj,Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/shakib-khan-1.jpg"
+    },
+    {
+        "id":2,
+        "name": "Joya Ahsan",
+        "famous_as": "Actor",
+        "age": 49,
+        "dimant": 90000,
+        "birthplace": "Dhaka",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/joya-ahsan-14255-1.jpg"
+    },
+    {
+        "id":3,
+        "name": "Pori Moni",
+        "famous_as": "Actor",
+        "age": 29,
+        "dimant": 200000,
+        "birthplace": "Satkhira, Khulna, Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/pori-moni-1.jpg"
+    },
+    {
+        "id":4,
+        "name": "Purnima",
+        "famous_as": "Actor",
+        "age": 40,
+        "dimant": 70000,
+        "birthplace": "Chittagong",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/purnima-25839-1.jpg"
+    },
+    {
+        "id":5,
+        "name": "Shabnam",
+        "famous_as": "Actress",
+        "age": 42,
+        "dimant": 20000,
+        "birthplace": "Dhaka, Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/shabnam-1.jpg"
+    },
+    {
+        "id":6,
+        "name": "Tahsan Rahman Khan",
+        "famous_as": "Actor + Singer",
+        "age": 42,
+        "dimant": 150000,
+        "birthplace": "Dhaka, Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/tahsan-rahman-khan-1.jpg"
+    },
+    {
+        "id":7,
+        "name": "Rafiath Rashid Mithila",
+        "famous_as": "Actor",
+        "age": 41,
+        "dimant": 100000,
+        "birthplace": "Dhaka,Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/rafiath-rashid-mithila-1.jpg"
+    },
+    {
+        "id":8,
+        "name": "Mosharraf Karim",
+        "famous_as": "Actor",
+        "age": 50,
+        "dimant": 150000,
+        "birthplace": "Dhaka,Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/mosharraf-karim-22781-1.jpg"
+    },
+    {
+        "id":9,
+        "name": "Afran Nisho",
+        "famous_as": "Model",
+        "age": 41,
+        "dimant": 120000,
+        "birthplace": "Tangail, Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/afran-nisho-1.jpg"
+    },
+    {
+        "id":10,
+        "name": "Ziaul Faruq Apurba",
+        "famous_as": "Bangladeshi model",
+        "age": 42,
+        "dimant": 120000,
+        "birthplace": "Dhaka",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ziaul-faruq-apurba-36366-1.jpg"
+    },
+    {
+        "id":11,
+        "name": "Bidya Sinha Saha Mim",
+        "famous_as": "Actress",
+        "age": 29,
+        "dimant": 140000,
+        "birthplace": "Rajshahi, Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/bidya-sinha-saha-mim-1.jpg"
+    },
+    {
+        "id":12,
+        "name": "Apu Biswas",
+        "famous_as": "Actress",
+        "age": 35,
+        "dimant": 180000,
+        "birthplace": "Bogra,Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/apu-biswas.jpg"
+    },
+    {
+        "id":13,
+        "name": "Mahiya Mahi",
+        "famous_as": "Actress",
+        "age": 28,
+        "dimant": 120000,
+        "birthplace": "Rajshahi,Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/mahiya-mahi-1.jpg"
+    },
+    {
+        "id":14,
+        "name": "Moushumi",
+        "famous_as": "Actress",
+        "age": 48,
+        "dimant": 120000,
+        "birthplace": "Khulna,Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/moushumi.jpg"
+    },
+    {
+        "id":15,
+        "name": "Nusraat Faria",
+        "famous_as": "Actress",
+        "age": 26,
+        "dimant": 120000,
+        "birthplace": "Chattogram,Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/nusraat-faria-1.jpg"
+    },
+    {
+        "id":16,
+        "name": "Riaz",
+        "famous_as": "Actor",
+        "age": 49,
+        "dimant": 90000,
+        "birthplace": "Faridpur District, Bangladeshi",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/riaz-1.jpg"
+    },
+    {
+        "id":17,
+        "name": "Chanchal Chowdhury",
+        "famous_as": "Actor",
+        "age": 47,
+        "dimant": 80000,
+        "birthplace": "Pabna, Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/chanchal-chowdhury-1.jpg"
+    },
+    {
+        "id":18,
+        "name": "Ferdous Ahmed",
+        "famous_as": "Model",
+        "age": 49,
+        "dimant": 100000,
+        "birthplace": "Titas Upazila, Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ferdous-ahmed-1.jpg"
+    },
+    {
+        "id":19,
+        "name": "Sadia Jahan Prova",
+        "famous_as": "Actor",
+        "age": 33,
+        "dimant": 120000,
+        "birthplace": "Shariatpur, Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/sadia-jahan-prova-1.jpg"
+    },
+    {
+        "id":20,
+        "name": "Mehazabien Chowdhury",
+        "famous_as": "Model",
+        "age": 30,
+        "dimant": 120000,
+        "birthplace": "Chottogram, Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/mehazabien-chowdhury-1.jpg"
+    },
+   
+    {
+        "id":21,
+        "name": "Arifin Shuvo",
+        "famous_as": "Actor",
+        "age": 39,
+        "dimant": 100000,
+        "birthplace": "Chottogram, Bangladesh",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/arifin-shuvo-1.jpg"
+    }
+]
