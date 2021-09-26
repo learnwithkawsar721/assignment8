@@ -42,12 +42,14 @@ const Header = () => {
       </nav>
       <section className="container">
         <div className="row my-5">
-          <div className="col-8 mx-auto">
-            <div className="banner">
-              <h3 className="banner_title text-white">
-                Bangla New Movie: <b>Mon Bose Na Prorar Table a</b>{" "}
-              </h3>
-              <h1 className="text-white">Movies Budget: 10 Million</h1>
+          <div className="col-12 mx-auto">
+            <div className="card">
+              <div className="card-body text-center">
+                <h3 className="banner_title ">
+                  Bangla New Movie: <b>Mon Bose Na Prorar Table a</b>{" "}
+                </h3>
+                <h1 className="">Movies Budget: 10 Million</h1>
+              </div>
             </div>
           </div>
         </div>
